@@ -1,0 +1,19 @@
+{
+  "name": "@yyteh08/packagetest",
+  "version": "1.0.0",
+  "description": "testing for github packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyteh08/PackageTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyteh08/PackageTest/issues"
+  },
+  "homepage": "https://github.com/yyteh08/PackageTest#readme"
+}
