@@ -16,4 +16,7 @@
     "url": "https://github.com/yyteh08/PackageTest/issues"
   },
   "homepage": "https://github.com/yyteh08/PackageTest#readme"
-}
+},
+"publishConfig": {
+   "@yyteh08:registry": "https://npm.pkg.github.com"
+ }
